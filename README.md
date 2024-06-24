@@ -1,7 +1,8 @@
 # LegendOfMortalPlugin
 
 ## 活俠傳Mod
-
+## 此Mod為BepinEx 5
+## BepinEx 6 版本Mod https://github.com/asd9176506911298/DebugMenu
 ### 安裝
 - LegendOfMortalPluginAll.zip 包含BepinEx
 - LegendOfMortalPlugin.zip 純dll
