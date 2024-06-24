@@ -1,6 +1,11 @@
 # LegendOfMortalPlugin
 
 ## 活俠傳Mod
+
+### 安裝
+- LegendOfMortalPluginAll.zip 包含BepinEx
+- LegendOfMortalPlugin.zip 純dll
+
 ### F1開啟選單
 - BepInEx\config\com.bepis.bepinex.configurationmanager.cfg 可以改開選單熱鍵
 - Show config manager = F1
