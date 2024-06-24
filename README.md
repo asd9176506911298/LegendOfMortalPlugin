@@ -7,6 +7,7 @@
 - LegendOfMortalPlugin.zip 純dll
 
 ### F1開啟選單
+- com.bepis.bepinex.configurationmanager.cfg 要開啟過遊戲一次才會產生
 - BepInEx\config\com.bepis.bepinex.configurationmanager.cfg 可以改開選單熱鍵
 - Show config manager = F1
 ## 功能
