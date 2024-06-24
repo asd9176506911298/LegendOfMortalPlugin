@@ -1,16 +1,18 @@
 # LegendOfMortalPlugin
 
-## ¬¡«L¶ÇMod
-
-## ¥\¯à
-- ª½±µ³Ó§Q/¥¢±Ñ
+## æ´»ä¿ å‚³Mod
+### F1é–‹å•Ÿé¸å–®
+- BepInEx\config\com.bepis.bepinex.configurationmanager.cfg å¯ä»¥æ”¹é–‹é¸å–®ç†±éµ
+- Show config manager = F1
+## åŠŸèƒ½
+- ç›´æ¥å‹åˆ©/å¤±æ•—
 ![pic](img/testWinLose.png)
-- ­×§ï¸ê·½
+- ä¿®æ”¹è³‡æº
 ![pic](img/testPanel.png)
-- ±±¨î»ë¤l
+- æ§åˆ¶éª°å­
 ![pic](img/dice.png)
-- ¤Á´«¥Õ¤Ñ±ß¤W
+- åˆ‡æ›ç™½å¤©æ™šä¸Š
 ![pic](img/testDay.png)
-- ´ú¸Õ°Êµe
+- æ¸¬è©¦å‹•ç•«
 ![pic](img/testAnimation.png)
-- ¥[³t
+- åŠ é€Ÿ
